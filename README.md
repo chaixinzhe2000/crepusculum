@@ -1,6 +1,6 @@
-# Crepusculum
+# Crepusculum, a City Generator
 
-Computer Graphics final project by Qiuhong (Anna) Wei, Yutang (Lyatte) Liu, Xinzhe Chai.
+Computer Graphics final project by [@QiuhongAnnaWei](https://github.com/QiuhongAnnaWei), [@LyatteLiu](https://github.com/LyatteLiu), [@chaixinzhe2000](https://github.com/chaixinzhe2000).
 
 ### Demo
 
